@@ -5,3 +5,5 @@ GitHub can help you access lots of data about projects and developers in your or
 
 In this workshop, you'll learn which metrics your team should be watching, and how to collect and visualize them to help developers work more efficiently and collaboratively.
 
+## Prerequisites
+- A GitHub.com account
