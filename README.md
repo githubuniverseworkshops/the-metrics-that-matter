@@ -24,3 +24,4 @@ _Welcome! :wave: This is the source repository for the [The metrics that matter]
 - :point_right: **GitHub Account.** If you don't already have an account with GitHub, sign up and create a new account at https://github.com/join before the workshop.
 - :point_right: **Internet Access**.
 - :point_right: Log in to **GitHub** before the workshop begins!
+- :point_right: **(Optional) Survey** Help us understand the matrics that matter to YOU by filling out this [survey](https://www.surveygizmo.com/s3/4596308/github-universe-2018-workshop-the-metrics-that-matter).
